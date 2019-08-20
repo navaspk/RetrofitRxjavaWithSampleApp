@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PlayList</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    <string name="refresh">Refresh</string>
+    <string name="error_msg_no_connection_warning">Check your internet</string>
+    <string name="enable_setting">Enable</string>
+
+    <string name="response_error">No response, check later</string>
+    <string name="hide">Hide</string>
+    <string name="title">Popular songs</string>
+    <string name="duration">Duration: </string>
+    <string name="minute">minute</string>
+</resources>
